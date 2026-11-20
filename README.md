@@ -19,5 +19,8 @@ the accepted assertions. No cloud or external dependency is needed. Publication
 must use Decapod and remain unmerged. Admission does not authorize merge.
 
 All fixture activity is owned by DecapodLabs/decapod #1757 (setup) or #1758
-(real experiment), never by an issue in this disposable repository. Historical
-main, acceptance-evidence and draft PR #1 are outside this new isolated target.
+(real experiment), never by an issue in this disposable repository. This default-main disposable target is prepared under #1758 to exercise the
+current accepted-policy resolver without changing historical refs in the original
+acceptance repository. Its source defect remains deliberately seeded. Original
+archive ae15eeffd6812002fbda2a2adaca23b006de0ba6 and historical PR #1 are preserved
+in alexhraber/decapod-admission-acceptance-20261117-1747-06.

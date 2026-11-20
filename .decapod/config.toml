@@ -64,7 +64,7 @@ environment = { LC_ALL = "C" }
 [repo]
 architecture_direction = "cli"
 backend = "local"
-base_branch = "acceptance/1757/launch-20261117-01-base"
+base_branch = "main"
 container_workspaces = false
 done_criteria = "Required repository access assertions, governed task/workspace, fresh proof and exact GitHub PR admission; no merge authorization"
 external_tracker = false
